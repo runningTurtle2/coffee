@@ -1,42 +1,38 @@
-.base{
-    border-bottom: 1px solid;
-    border-width: thin;
-    border-color: #CAC4D0;
-    padding: 12px;
+.base {
+  border-bottom: 1px solid;
+  border-width: thin;
+  border-color: #cac4d0;
+  padding: 12px;
 }
 
 .input-wrapper {
-    width: 100%;
-    border-radius: 28px;
-    background-color: #ECE6F0;
-    border-style: none;
+  width: 100%;
+  border-radius: 28px;
+  background-color: #ece6f0;
+  border-style: none;
 }
 
 input {
-    width: 360px;
-    height: 56px;
-    min-width: 360px;
-    max-width: 720px;
-    padding-left: 10px;
-    border-radius: 28px;
-    border-style: none;
-    background-color: #ECE6F0;
-    gap: 4px;
-
+  width: 360px;
+  height: 56px;
+  min-width: 360px;
+  max-width: 720px;
+  padding-left: 10px;
+  border-radius: 28px;
+  border-style: none;
+  background-color: #ece6f0;
+  gap: 4px;
 }
 
 input:focus {
-    outline: none;
+  outline: none;
 }
 
 .search-btn {
-    width: 34px;
-    cursor: pointer;
-    padding: 0;
-    margin: 0;
-    border-style: none;
-    background-color: #ECE6F0;
+  width: 34px;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  border-style: none;
+  background-color: #ece6f0;
 }
-
-
-
