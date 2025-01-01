@@ -1,0 +1,18 @@
+.Base {
+    width: 1920px;
+    height: auto;
+    border-bottom: 1px solid;
+    border-color: #79747E;
+    background-color: #ffffff;
+    display:block;
+    padding: 10px 40px 10px 40px;
+
+}
+
+.Banner-Text {
+    font-weight: 400;
+    font-size: 44px;
+    color: black;
+    gap: 8px;
+    
+}

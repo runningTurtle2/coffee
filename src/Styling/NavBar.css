@@ -1,0 +1,15 @@
+nav {
+  width: 1920px;
+  height: 24px;
+  background-color: #ffffff;
+  border-bottom: 1px solid;
+  display: block;
+  padding: 12px 12px 12px 40px;
+}
+
+.Site-Title {
+  font-weight: 700;
+  font-size: 16px;
+  text-decoration: none;
+  color: black;
+}

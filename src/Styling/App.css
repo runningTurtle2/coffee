@@ -1,0 +1,9 @@
+
+.side-bar {
+    width: 440px;
+    height: 852px;
+    border-right: 1px solid;
+    border-color: #79747E;
+    padding: 20px 40px 20px 40px;
+    gap: 8px;
+}
